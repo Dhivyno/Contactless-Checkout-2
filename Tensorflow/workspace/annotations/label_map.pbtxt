@@ -1,0 +1,16 @@
+item { 
+	name:'comb'
+	id:1
+}
+item { 
+	name:'hi'
+	id:2
+}
+item { 
+	name:'pen'
+	id:3
+}
+item { 
+	name:'remote'
+	id:4
+}

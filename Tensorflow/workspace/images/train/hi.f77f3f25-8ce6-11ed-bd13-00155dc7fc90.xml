@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hi</folder>
+	<filename>hi.f77f3f25-8ce6-11ed-bd13-00155dc7fc90.jpg</filename>
+	<path>C:\Users\dhivy\OneDrive\Desktop\ContactlessCheckout\collection\images\taken_images\hi\hi.f77f3f25-8ce6-11ed-bd13-00155dc7fc90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>270</ymin>
+			<xmax>334</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
